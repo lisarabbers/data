@@ -1,0 +1,3 @@
+[
+	{"Email": "enron_employee_tana.jones@enron.com", "Jobtitle": "Employee", "sentto": ["enron_vicepresident_andy.zipper@enron.com"]}, 
+	{"Email": "enron_vicepresident_andy.zipper@enron.com", "Jobtitle": "Vice President", "sentto": ["enron_employee_tana.jones@enron.com"]}]
